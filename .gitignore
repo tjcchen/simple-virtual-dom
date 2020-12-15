@@ -3,3 +3,9 @@
 
 # node
 node_modules/
+
+# dist
+dist/
+
+# cache
+.cache
