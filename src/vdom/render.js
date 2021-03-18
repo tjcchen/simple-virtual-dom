@@ -12,7 +12,6 @@
 /**
  * Render function converts the virtual dom to real dom element
  */
-
 const renderElement = ({ tagName, attrs, children }) => {
   const $el = document.createElement(tagName);
 
